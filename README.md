@@ -12,7 +12,7 @@
 - 🚀 Passionate about building scalable web applications
 - 🌱 Currently learning **Advanced Backend & System Design**
 - 🎯 Goal: Crack top product-based companies
-- 📫 Email: your-email@example.com
+- 📫 Email: manasssengar2006@example.com
 
 ---
 
