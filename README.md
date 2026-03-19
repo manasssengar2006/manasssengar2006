@@ -61,7 +61,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=manasssengar2006&theme=tokyonight" />
 </p>
 
 ---
